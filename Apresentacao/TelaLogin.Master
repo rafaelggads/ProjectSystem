@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TelaLogin.master.cs" Inherits="Apresentacao.TelaLogin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 373px;
+            table-layout: auto;
+        }
+        .auto-style2 {
+            width: 373px;
+            height: 26px;
+            table-layout: auto;
+        }
+        .auto-style5 {
+            height: 26px;
+        }
+        .auto-style6 {
+            width: 373px;
+            height: 26px;
+        }
+        .auto-style8 {
+            width: 644px;
+        }
+        .auto-style9 {
+            width: 644px;
+            height: 26px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            <asp:Label ID="Label1" runat="server" Font-Bold="True" ForeColor="Black" Text="Login :"></asp:Label>
+            <asp:TextBox ID="TxtLogin" runat="server" Width="130px"></asp:TextBox>
+            <asp:Label ID="Label2" runat="server" Font-Bold="True" ForeColor="Black" Text="Senha :"></asp:Label>
+            <asp:TextBox ID="TxtSenha" runat="server" Width="130px" Height="16px" TextMode="Password"></asp:TextBox>
+            <asp:Label ID="Label5" runat="server" Font-Bold="True" ForeColor="Black" Text="Tipo de Permissão :"></asp:Label>
+            <asp:DropDownList ID="ddlTipoUsuario" runat="server" Height="20px" Width="140px" Font-Bold="True">
+                <asp:ListItem Value="0">Selecione...</asp:ListItem>
+                <asp:ListItem Value="1">Administrador</asp:ListItem>
+                <asp:ListItem Value="2">Cliente</asp:ListItem>
+            </asp:DropDownList>
+            <asp:Button ID="BtnLogin" runat="server" Font-Bold="True" Text="Logar" Width="120px" OnClick="BtnLogin_Click" />
+            <asp:Button ID="btnCadastrar" runat="server" OnClick="btnCadastrar_Click" Text="Cadastrar" Width="120px" Font-Bold="True" />
+            <asp:Image ID="Image1" runat="server" Height="412px" ImageUrl="~/Imagens/banner2-5786355de7.jpg" style="margin-right: 3px; margin-top: 0px; margin-bottom: 0px" Width="1208px" />
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <asp:Image ID="RodapeTelaInicial" runat="server" Height="124px" ImageUrl="~/Imagens/Rodapé Software.JPG" style="margin-top: 0px" Width="1208px" />
+    </form>
+</body>
+</html>

@@ -1,0 +1,58 @@
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Data.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Web.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll.config
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Data.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Web.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll.config
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/MySql.Data.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/MySql.Web.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll.config
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Data.dll
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Web.dll
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+D:/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+D:/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+D:/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+D:/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll.config
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Data.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/MySql.Web.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb
+/Users/rafael/Downloads/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll.config
+/Users/rafael/Downloads/ProjectSystem/Persistencia/bin/Debug/Persistencia.dll
+/Users/rafael/Downloads/ProjectSystem/Persistencia/bin/Debug/Persistencia.pdb
+/Users/rafael/Downloads/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.dll
+/Users/rafael/Downloads/ProjectSystem/Persistencia/bin/Debug/ProjectSystem.pdb
+/Users/rafael/Downloads/ProjectSystem/Persistencia/obj/Debug/Persistencia.csprojResolveAssemblyReference.cache
+/Users/rafael/Downloads/ProjectSystem/Persistencia/obj/Debug/Persistencia.csproj.CoreCompileInputs.cache
+/Users/rafael/Downloads/ProjectSystem/Persistencia/obj/Debug/Persistencia.dll
+/Users/rafael/Downloads/ProjectSystem/Persistencia/obj/Debug/Persistencia.pdb

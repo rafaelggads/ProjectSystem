@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteCliente.master.cs" Inherits="Apresentacao.SiteCliente" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="loginDisplay" style="background-image: url('/Imagens/grd_212650_project system (Small).JPG')">
+                <asp:Button ID="btnSair" runat="server" Height="25px" OnClick="btnSair_Click" style="margin-left: 0px" Text="Sair" Width="58px" />
+            </div>
+            <div class="clear hideSkiplink" style="background-color: #FFFFFF; background-image: url('/Imagens/banner2-5786355de7.jpg'); height: 42px; margin-top: 0px;">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Principal" Value="Principal"/>
+                        <asp:MenuItem Text="Cadastro" Value="Cadastro">
+                            <asp:MenuItem NavigateUrl="~/Paginas/Cliente_Alteracao_Senha.aspx" Text="Alteração de Senha" Value="Alteração de Senha"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Reserva de Campo" Value="Reserva de Campo"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p style="font-family: Arial, Helvetica, sans-serif; font-size: xx-large">
+                    Web</p>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

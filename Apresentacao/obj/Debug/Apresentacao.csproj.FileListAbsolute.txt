@@ -1,0 +1,234 @@
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Data.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Web.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.cache
+D:/ProjetoIntegrador 20132/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.compiled
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Data.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Web.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.Properties.Resources.resources
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.GenerateResource.Cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.compiled
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystem07-11Versão3.0/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/MySql.Data.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/MySql.Web.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Negocio.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Persistencia.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Negocio.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.Properties.Resources.resources
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.GenerateResource.Cache
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.cache
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.compiled
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+C:/Users/Glaicon/Desktop/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Data.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Web.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.Properties.Resources.resources
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.GenerateResource.Cache
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.cache
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.compiled
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+D:/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Data.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/MySql.Web.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Negocio.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.Properties.Resources.resources
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.GenerateResource.Cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.cache
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/RdlCompile.compiled
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+C:/Users/RafaelGonzaga/Downloads/ProjectSystemV25112013/ProjectSystem/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csprojResolveAssemblyReference.cache
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.Properties.Resources.resources
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.GenerateResource.Cache
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.csproj.CoreCompileInputs.cache
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/obj/Debug/Apresentacao.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Apresentacao.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Apresentacao.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Negocio.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ProjectSystem.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Persistencia.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/HtmlAgilityPack.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/AjaxMin.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Negocio.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ProjectSystem.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/AjaxControlToolkit.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Persistencia.pdb
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Persistencia.dll.config
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/Microsoft.WindowsAzure.Storage.xml
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ar/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/cs/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/de/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/es/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/fr/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/he/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/hi/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/it/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ja/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ko/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/nl/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/pl/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/pt/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/ru/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/tr-TR/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/zh-CHS/AjaxControlToolkit.resources.dll
+/Users/rafael/Downloads/ProjectSystem/Apresentacao/bin/zh-CHT/AjaxControlToolkit.resources.dll
